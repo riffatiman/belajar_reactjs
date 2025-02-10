@@ -1,9 +1,9 @@
-import {useState} from "react";
+import { useState } from "react";
 
-export default function Counter({name}){
+export default function Counter({ name }) {
     const [count, setCount] = useState(0);
 
-    function handleClick(){
+    function handleClick() {
         setCount(count + 1);
     }
 
