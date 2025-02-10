@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    padding: 10px;
+    background-color: red;
+}
+
+.content {
+    color: white;
+    padding: 10px;
+    background-color: green;
+}
